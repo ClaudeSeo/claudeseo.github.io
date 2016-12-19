@@ -70,4 +70,32 @@ body {
     color: #000;
 }
 
+article {
+    margin-top: 2rem;
+}
+
+.article-header {
+    display: flex;   
+}
+
+.article-header i {
+    font-size: 2rem;
+}
+
+.article-header-title {
+    font-size: 1.2rem;
+    margin: auto 0;
+    margin-left: 10px;
+}
+
+.article-body p {
+    font-size: 0.9rem;
+    font-weight: 200;
+}
+.article-body .article-body-title {
+    margin-top: 1rem;
+    font-weight: bold;
+    font-size: 1rem;
+}
+
 
