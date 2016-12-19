@@ -90,12 +90,25 @@ article {
 
 .article-body p {
     font-size: 0.9rem;
-    font-weight: 200;
+    font-weight: 300;
 }
 .article-body .article-body-title {
     margin-top: 1rem;
     font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.article-body .article-body-sub-title {
+    margin-top: 0.3rem;
+    font-weight: 400;
     font-size: 1rem;
 }
 
+.article-footer {
+    margin-top: 1rem;
+}
 
+.article-footer a {
+    color: #000;
+    text-decoration: none;
+}
